@@ -118,8 +118,8 @@ data/processed/
 ## ▶️ How to Run
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/your-repo.git  
-cd your-repo  
+git clone https://github.com/Viola2365/olist-ecommerce-analysis
+cd olist-ecommerce-analysis
 
 ### 2. Install dependencies
 pip install -r requirements.txt  
